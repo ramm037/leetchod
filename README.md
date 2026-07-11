@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ramm037/leetchod/tree/master/0007-reverse-integer) |
 | [1025-divisor-game](https://github.com/ramm037/leetchod/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
