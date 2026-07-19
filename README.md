@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/ramm037/leetchod/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramm037/leetchod/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ramm037/leetchod/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/ramm037/leetchod/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ramm037/leetchod/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ramm037/leetchod/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramm037/leetchod/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/ramm037/leetchod/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -64,6 +66,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ramm037/leetchod/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 ## Linked List
 |  |
