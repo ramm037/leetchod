@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/ramm037/leetchod/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ramm037/leetchod/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
+| [1929-concatenation-of-array](https://github.com/ramm037/leetchod/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +83,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ramm037/leetchod/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ramm037/leetchod/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ramm037/leetchod/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
