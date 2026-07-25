@@ -93,6 +93,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ramm037/leetchod/tree/master/0020-valid-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/ramm037/leetchod/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramm037/leetchod/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Depth-First Search
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ramm037/leetchod/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ramm037/leetchod/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
