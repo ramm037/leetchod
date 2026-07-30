@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/ramm037/leetchod/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramm037/leetchod/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/ramm037/leetchod/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ramm037/leetchod/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramm037/leetchod/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ramm037/leetchod/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ramm037/leetchod/tree/master/0217-contains-duplicate) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramm037/leetchod/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ramm037/leetchod/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ramm037/leetchod/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/ramm037/leetchod/tree/master/0901-online-stock-span) |
@@ -121,6 +123,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ramm037/leetchod/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/ramm037/leetchod/tree/master/0901-online-stock-span) |
 ## Data Stream
