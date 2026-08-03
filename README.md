@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/ramm037/leetchod/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/ramm037/leetchod/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramm037/leetchod/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ramm037/leetchod/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/ramm037/leetchod/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ramm037/leetchod/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramm037/leetchod/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramm037/leetchod/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/ramm037/leetchod/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ramm037/leetchod/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ramm037/leetchod/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramm037/leetchod/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ramm037/leetchod/tree/master/0876-middle-of-the-linked-list) |
@@ -44,6 +46,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ramm037/leetchod/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramm037/leetchod/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/ramm037/leetchod/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -111,6 +114,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramm037/leetchod/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ramm037/leetchod/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ramm037/leetchod/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ramm037/leetchod/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
@@ -123,6 +127,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ramm037/leetchod/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ramm037/leetchod/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/ramm037/leetchod/tree/master/0901-online-stock-span) |
