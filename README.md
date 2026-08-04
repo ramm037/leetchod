@@ -139,6 +139,7 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ramm037/leetchod/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0197-rising-temperature](https://github.com/ramm037/leetchod/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/ramm037/leetchod/tree/master/0595-big-countries) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ramm037/leetchod/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/ramm037/leetchod/tree/master/1683-invalid-tweets) |
