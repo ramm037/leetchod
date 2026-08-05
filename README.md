@@ -24,6 +24,7 @@
 | [0011-container-with-most-water](https://github.com/ramm037/leetchod/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/ramm037/leetchod/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ramm037/leetchod/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/ramm037/leetchod/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ramm037/leetchod/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramm037/leetchod/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ramm037/leetchod/tree/master/0876-middle-of-the-linked-list) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramm037/leetchod/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/ramm037/leetchod/tree/master/0125-valid-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/ramm037/leetchod/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramm037/leetchod/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Depth-First Search
