@@ -64,6 +64,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ramm037/leetchod/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ramm037/leetchod/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramm037/leetchod/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ramm037/leetchod/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/ramm037/leetchod/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
@@ -84,6 +85,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ramm037/leetchod/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ramm037/leetchod/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramm037/leetchod/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ramm037/leetchod/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ramm037/leetchod/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ramm037/leetchod/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ramm037/leetchod/tree/master/0876-middle-of-the-linked-list) |
@@ -111,6 +113,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ramm037/leetchod/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ramm037/leetchod/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Stack
 |  |
@@ -124,6 +127,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ramm037/leetchod/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ramm037/leetchod/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/ramm037/leetchod/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
