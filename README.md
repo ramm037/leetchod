@@ -38,6 +38,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramm037/leetchod/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ramm037/leetchod/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ramm037/leetchod/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ramm037/leetchod/tree/master/0852-peak-index-in-a-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ramm037/leetchod/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
