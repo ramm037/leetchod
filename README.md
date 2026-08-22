@@ -52,6 +52,7 @@
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/ramm037/leetchod/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/ramm037/leetchod/tree/master/2235-add-two-integers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ramm037/leetchod/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
