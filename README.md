@@ -36,6 +36,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramm037/leetchod/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ramm037/leetchod/tree/master/0134-gas-station) |
+| [1927-sum-game](https://github.com/ramm037/leetchod/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/ramm037/leetchod/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/ramm037/leetchod/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/ramm037/leetchod/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ramm037/leetchod/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ramm037/leetchod/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/ramm037/leetchod/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ramm037/leetchod/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/ramm037/leetchod/tree/master/1108-defanging-an-ip-address) |
+| [1927-sum-game](https://github.com/ramm037/leetchod/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramm037/leetchod/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Depth-First Search
 |  |
