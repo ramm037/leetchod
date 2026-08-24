@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ramm037/leetchod/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/ramm037/leetchod/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramm037/leetchod/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
@@ -52,6 +53,7 @@
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/ramm037/leetchod/tree/master/1025-divisor-game) |
+| [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ramm037/leetchod/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/ramm037/leetchod/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ramm037/leetchod/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -61,6 +63,7 @@
 | [0042-trapping-rain-water](https://github.com/ramm037/leetchod/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramm037/leetchod/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/ramm037/leetchod/tree/master/1025-divisor-game) |
+| [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -69,6 +72,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ramm037/leetchod/tree/master/1025-divisor-game) |
+| [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ramm037/leetchod/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
@@ -206,4 +210,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ramm037/leetchod/tree/master/0239-sliding-window-maximum) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
