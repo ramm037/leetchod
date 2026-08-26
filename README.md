@@ -129,6 +129,7 @@
 | [1108-defanging-an-ip-address](https://github.com/ramm037/leetchod/tree/master/1108-defanging-an-ip-address) |
 | [1927-sum-game](https://github.com/ramm037/leetchod/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramm037/leetchod/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ramm037/leetchod/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ramm037/leetchod/tree/master/0239-sliding-window-maximum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ramm037/leetchod/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
