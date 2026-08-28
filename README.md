@@ -134,6 +134,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ramm037/leetchod/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -228,4 +229,16 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
