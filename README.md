@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ramm037/leetchod/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/ramm037/leetchod/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramm037/leetchod/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/ramm037/leetchod/tree/master/1025-divisor-game) |
 | [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramm037/leetchod/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/ramm037/leetchod/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ramm037/leetchod/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramm037/leetchod/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
