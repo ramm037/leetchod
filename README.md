@@ -22,6 +22,7 @@
 | [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/ramm037/leetchod/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramm037/leetchod/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ramm037/leetchod/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ramm037/leetchod/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ramm037/leetchod/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ramm037/leetchod/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -52,6 +53,7 @@
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ramm037/leetchod/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ramm037/leetchod/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ramm037/leetchod/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/ramm037/leetchod/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/ramm037/leetchod/tree/master/1025-divisor-game) |
 | [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ramm037/leetchod/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Brainteaser
 |  |
 | ------- |
@@ -113,6 +116,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/ramm037/leetchod/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ramm037/leetchod/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
