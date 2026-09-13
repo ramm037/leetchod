@@ -18,6 +18,7 @@
 | [0239-sliding-window-maximum](https://github.com/ramm037/leetchod/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
+| [0835-image-overlap](https://github.com/ramm037/leetchod/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ramm037/leetchod/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/ramm037/leetchod/tree/master/1929-concatenation-of-array) |
@@ -279,6 +280,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ramm037/leetchod/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ramm037/leetchod/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
