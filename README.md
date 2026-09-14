@@ -159,6 +159,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ramm037/leetchod/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ramm037/leetchod/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ramm037/leetchod/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ramm037/leetchod/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
@@ -291,4 +294,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ramm037/leetchod/tree/master/0836-rectangle-overlap) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
