@@ -151,6 +151,7 @@
 | [0020-valid-parentheses](https://github.com/ramm037/leetchod/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ramm037/leetchod/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ramm037/leetchod/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramm037/leetchod/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/ramm037/leetchod/tree/master/0940-distinct-subsequences-ii) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ramm037/leetchod/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ramm037/leetchod/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -267,6 +269,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ramm037/leetchod/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -279,6 +282,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ramm037/leetchod/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
@@ -306,4 +310,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
