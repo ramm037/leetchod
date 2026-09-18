@@ -47,6 +47,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramm037/leetchod/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ramm037/leetchod/tree/master/0134-gas-station) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ramm037/leetchod/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ramm037/leetchod/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ramm037/leetchod/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
@@ -107,6 +108,7 @@
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramm037/leetchod/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ramm037/leetchod/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ramm037/leetchod/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ramm037/leetchod/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ramm037/leetchod/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -121,6 +123,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/ramm037/leetchod/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ramm037/leetchod/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ramm037/leetchod/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -156,6 +159,7 @@
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/ramm037/leetchod/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/ramm037/leetchod/tree/master/1108-defanging-an-ip-address) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ramm037/leetchod/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ramm037/leetchod/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramm037/leetchod/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ramm037/leetchod/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
