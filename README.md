@@ -68,6 +68,7 @@
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/ramm037/leetchod/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/ramm037/leetchod/tree/master/1025-divisor-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ramm037/leetchod/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ramm037/leetchod/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/ramm037/leetchod/tree/master/2235-add-two-integers) |
@@ -310,6 +311,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ramm037/leetchod/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ramm037/leetchod/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Binary Lifting
 |  |
 | ------- |
