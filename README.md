@@ -172,6 +172,7 @@
 | [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ramm037/leetchod/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0662-maximum-width-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ramm037/leetchod/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Doubly-Linked List
 |  |
@@ -275,11 +276,13 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0662-maximum-width-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ramm037/leetchod/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0662-maximum-width-of-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ramm037/leetchod/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -288,6 +291,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0662-maximum-width-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ramm037/leetchod/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
