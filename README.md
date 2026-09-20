@@ -149,6 +149,7 @@
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ramm037/leetchod/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramm037/leetchod/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/ramm037/leetchod/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramm037/leetchod/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ramm037/leetchod/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ramm037/leetchod/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/ramm037/leetchod/tree/master/3498-reverse-degree-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
