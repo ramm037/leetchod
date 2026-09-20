@@ -170,6 +170,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ramm037/leetchod/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
@@ -188,6 +189,7 @@
 | [0020-valid-parentheses](https://github.com/ramm037/leetchod/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ramm037/leetchod/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ramm037/leetchod/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ramm037/leetchod/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/ramm037/leetchod/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/ramm037/leetchod/tree/master/0901-online-stock-span) |
@@ -275,6 +277,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ramm037/leetchod/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
@@ -290,6 +293,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ramm037/leetchod/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramm037/leetchod/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
