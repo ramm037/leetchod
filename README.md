@@ -66,6 +66,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ramm037/leetchod/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ramm037/leetchod/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ramm037/leetchod/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ramm037/leetchod/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
@@ -108,6 +109,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ramm037/leetchod/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/ramm037/leetchod/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ramm037/leetchod/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramm037/leetchod/tree/master/0142-linked-list-cycle-ii) |
@@ -163,6 +165,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ramm037/leetchod/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ramm037/leetchod/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ramm037/leetchod/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ramm037/leetchod/tree/master/0125-valid-palindrome) |
