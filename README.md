@@ -116,6 +116,7 @@
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramm037/leetchod/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/ramm037/leetchod/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ramm037/leetchod/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ramm037/leetchod/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ramm037/leetchod/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/ramm037/leetchod/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/ramm037/leetchod/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ramm037/leetchod/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ramm037/leetchod/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
@@ -168,6 +170,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ramm037/leetchod/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/ramm037/leetchod/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/ramm037/leetchod/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/ramm037/leetchod/tree/master/1108-defanging-an-ip-address) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ramm037/leetchod/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ramm037/leetchod/tree/master/1927-sum-game) |
@@ -203,6 +206,7 @@
 | [0155-min-stack](https://github.com/ramm037/leetchod/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/ramm037/leetchod/tree/master/0901-online-stock-span) |
+| [1096-brace-expansion-ii](https://github.com/ramm037/leetchod/tree/master/1096-brace-expansion-ii) |
 ## Design
 |  |
 | ------- |
@@ -300,6 +304,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ramm037/leetchod/tree/master/0662-maximum-width-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/ramm037/leetchod/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ramm037/leetchod/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -342,6 +347,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/ramm037/leetchod/tree/master/1096-brace-expansion-ii) |
 ## Segment Tree
 |  |
 | ------- |
