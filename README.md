@@ -61,6 +61,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramm037/leetchod/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ramm037/leetchod/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ramm037/leetchod/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ramm037/leetchod/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ramm037/leetchod/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -72,6 +73,7 @@
 | [0009-palindrome-number](https://github.com/ramm037/leetchod/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ramm037/leetchod/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ramm037/leetchod/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ramm037/leetchod/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/ramm037/leetchod/tree/master/0836-rectangle-overlap) |
@@ -372,4 +374,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ramm037/leetchod/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ramm037/leetchod/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
