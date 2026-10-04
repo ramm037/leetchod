@@ -53,6 +53,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramm037/leetchod/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ramm037/leetchod/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/ramm037/leetchod/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ramm037/leetchod/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ramm037/leetchod/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ramm037/leetchod/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -96,6 +97,7 @@
 | [0042-trapping-rain-water](https://github.com/ramm037/leetchod/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/ramm037/leetchod/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramm037/leetchod/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/ramm037/leetchod/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ramm037/leetchod/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/ramm037/leetchod/tree/master/1025-divisor-game) |
 | [1872-stone-game-viii](https://github.com/ramm037/leetchod/tree/master/1872-stone-game-viii) |
@@ -180,6 +182,7 @@
 | [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramm037/leetchod/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/ramm037/leetchod/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ramm037/leetchod/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ramm037/leetchod/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/ramm037/leetchod/tree/master/1108-defanging-an-ip-address) |
@@ -218,6 +221,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ramm037/leetchod/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/ramm037/leetchod/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/ramm037/leetchod/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/ramm037/leetchod/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/ramm037/leetchod/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ramm037/leetchod/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -374,6 +378,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramm037/leetchod/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ramm037/leetchod/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ramm037/leetchod/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Newton's Method
 |  |
