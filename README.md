@@ -186,6 +186,7 @@
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/ramm037/leetchod/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ramm037/leetchod/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/ramm037/leetchod/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ramm037/leetchod/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/ramm037/leetchod/tree/master/1108-defanging-an-ip-address) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ramm037/leetchod/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -225,6 +226,7 @@
 | [0496-next-greater-element-i](https://github.com/ramm037/leetchod/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/ramm037/leetchod/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/ramm037/leetchod/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/ramm037/leetchod/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ramm037/leetchod/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ramm037/leetchod/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -381,6 +383,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramm037/leetchod/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ramm037/leetchod/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/ramm037/leetchod/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ramm037/leetchod/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Newton's Method
 |  |
