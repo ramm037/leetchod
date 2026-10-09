@@ -75,6 +75,7 @@
 | [0009-palindrome-number](https://github.com/ramm037/leetchod/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ramm037/leetchod/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ramm037/leetchod/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ramm037/leetchod/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ramm037/leetchod/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
@@ -137,6 +138,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ramm037/leetchod/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ramm037/leetchod/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ramm037/leetchod/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ramm037/leetchod/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -169,6 +171,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ramm037/leetchod/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ramm037/leetchod/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ramm037/leetchod/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ramm037/leetchod/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -179,6 +182,7 @@
 | [0013-roman-to-integer](https://github.com/ramm037/leetchod/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ramm037/leetchod/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ramm037/leetchod/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/ramm037/leetchod/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ramm037/leetchod/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ramm037/leetchod/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ramm037/leetchod/tree/master/0257-binary-tree-paths) |
