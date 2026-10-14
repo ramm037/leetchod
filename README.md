@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ramm037/leetchod/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ramm037/leetchod/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ramm037/leetchod/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ramm037/leetchod/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ramm037/leetchod/tree/master/0141-linked-list-cycle) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ramm037/leetchod/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ramm037/leetchod/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/ramm037/leetchod/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/ramm037/leetchod/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ramm037/leetchod/tree/master/3483-unique-3-digit-even-numbers) |
