@@ -269,6 +269,7 @@
 | [0577-employee-bonus](https://github.com/ramm037/leetchod/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ramm037/leetchod/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ramm037/leetchod/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/ramm037/leetchod/tree/master/0596-classes-with-at-least-5-students) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ramm037/leetchod/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ramm037/leetchod/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/ramm037/leetchod/tree/master/1683-invalid-tweets) |
