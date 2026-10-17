@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/ramm037/leetchod/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/ramm037/leetchod/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ramm037/leetchod/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ramm037/leetchod/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ramm037/leetchod/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramm037/leetchod/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/ramm037/leetchod/tree/master/0134-gas-station) |
@@ -328,6 +329,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ramm037/leetchod/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ramm037/leetchod/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ramm037/leetchod/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ramm037/leetchod/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/ramm037/leetchod/tree/master/0226-invert-binary-tree) |
@@ -349,6 +351,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ramm037/leetchod/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ramm037/leetchod/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ramm037/leetchod/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ramm037/leetchod/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ramm037/leetchod/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/ramm037/leetchod/tree/master/0226-invert-binary-tree) |
@@ -412,4 +415,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ramm037/leetchod/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ramm037/leetchod/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ramm037/leetchod/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
